@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Politique de confidentialité</title>
+</head>
+<body>
+  <h1>Politique de confidentialité</h1>
+
+  <p>
+    Cette application utilise l’API WhatsApp Business Cloud afin d’envoyer et de recevoir
+    des messages automatisés.
+  </p>
+
+  <h2>Données collectées</h2>
+  <p>
+    Nous collectons uniquement les informations nécessaires au fonctionnement du service :
+    numéro de téléphone, contenu des messages et métadonnées WhatsApp.
+  </p>
+
+  <h2>Utilisation des données</h2>
+  <p>
+    Les données sont utilisées exclusivement pour :
+    <ul>
+      <li>confirmer des commandes</li>
+      <li>répondre aux messages des utilisateurs</li>
+      <li>automatiser le support client</li>
+    </ul>
+  </p>
+
+  <h2>Partage des données</h2>
+  <p>
+    Aucune donnée personnelle n’est vendue ou partagée avec des tiers.
+  </p>
+
+  <h2>Sécurité</h2>
+  <p>
+    Les données sont traitées de manière sécurisée via l’API officielle de Meta (WhatsApp Business Cloud).
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    Pour toute question, contactez : nordinebenidiri@gmail.com
+  </p>
+</body>
+</html>
